@@ -1,9 +1,9 @@
 
 TITLE: 
-Law - 100% Fully Responsive Free HTML5 Bootstrap Template
+Frank Bertelot Tailoring Website
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by FreeHTML5.com
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
